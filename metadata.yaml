@@ -1,0 +1,34 @@
+_repo: Law-and-Laughter_30003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Malloch, D. Macleod (Donald Macleod)
+    alias: Malloch, Donald Macleod
+    deathdate: 1912
+    gutenberg_agent_id: '34302'
+    url: http://www.gutenberg.org/2009/agents/34302
+  - agent_name: Morton, George A. (George Alexander)
+    alias: Morton, George Alexander
+    birthdate: 1857
+    gutenberg_agent_id: '34301'
+    url: http://www.gutenberg.org/2009/agents/34301
+description: ''
+gutenberg_bookshelf: British Law
+gutenberg_issued: '2009-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30003'
+  lccn: '14006454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Law -- United States -- Humor'
+- !lcc 'K'
+- !lcsh 'Law -- Great Britain -- Humor'
+title: Law and Laughter
+url: http://www.gutenberg.org/ebooks/30003
